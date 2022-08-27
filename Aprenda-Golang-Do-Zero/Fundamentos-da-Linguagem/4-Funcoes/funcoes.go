@@ -7,7 +7,7 @@ func somar(n1 int8, n2 int8) int8 {
 }
 
 /*
-	As funções podem ter mais de um retorno
+	As funções podem ter mais de um retorno (!!!!!!!!)
 */
 
 func calculosMatematicos(n1, n2 int8) (int8, int8) {
