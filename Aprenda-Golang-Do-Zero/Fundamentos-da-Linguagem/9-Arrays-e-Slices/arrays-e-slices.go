@@ -42,4 +42,11 @@ func main() {
 
 	array2[1] = "Posição alterada"
 	fmt.Println(slice2)
+
+	// # ARRAY INTERNO
+
+	slice3 := make([]float32, 10, 15)
+	fmt.Println(slice3)
+	fmt.Println(len(slice3))
+	fmt.Println(cap(slice3))
 }
